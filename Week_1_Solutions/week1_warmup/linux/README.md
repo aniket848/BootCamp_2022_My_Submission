@@ -38,6 +38,11 @@ Following are some basic Linux commands. To know more about them use: <code> man
 ### Exercises
 
 1. Find the variant of the <code>ls</code> command (i.e. argument(s) to be used) to list contents of a folder including its hidden files, the variant of <code>cp</code> to copy folder and the command to rename a file.
+ 
+ Ans => 
+ 
+   ![Screenshot (123)](https://user-images.githubusercontent.com/62254194/169117761-bfe24e02-5f71-4274-930a-f5c132df2cc1.png)
+
 
 2. In this question, we will understand the hardware configuration of your working machine using the <code>/proc</code> filesystem.
 
